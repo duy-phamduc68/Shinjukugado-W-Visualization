@@ -42,3 +42,5 @@ An example folder structure is provided below:
 ---
 
 Data was collected from this [Youtube Livestream](https://www.youtube.com/watch?v=6dp-bvQ7RWo).
+
+Precise map location is [Shinjukugado W.](https://maps.app.goo.gl/1NjhQTGCeubBR37c9).
