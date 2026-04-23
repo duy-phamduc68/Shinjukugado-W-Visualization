@@ -1,6 +1,6 @@
 # TrafficLab 3D Paths Visualization Tool
 
-This repository visualizes the data output from my [TrafficLab 3D](https://github.com/duy-phamduc68/TrafficLab-3D) tool (in which has preprocessed data for Shinjukugado W.). Two modes visualization modes are provided: `paths` and `objects`.
+This repository visualizes the data output from my [TrafficLab 3D](https://github.com/duy-phamduc68/TrafficLab-3D) tool (in which has preprocessed data for Shinjukugado W.). Two visualization modes are provided: `paths` and `objects`.
 
 ## Paths Visualization
 
