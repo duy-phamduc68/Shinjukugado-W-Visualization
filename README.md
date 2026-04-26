@@ -10,6 +10,12 @@ This repository visualizes the data output from my [TrafficLab 3D](https://githu
 
 ![shinjukugao w objects](shinjuku_objects_optimized.gif)
 
+## Countlines Visualization
+
+![shinjukugao w countlines](shinjuku_countlines_optimized.gif)
+
+Note: To draw a vehicle countline, click & drag with `left mouse`, to draw a pedestrian countline, click & draw with `right mouse`.
+
 ---
 
 To reproduce the results and use the viewers, you can visit this [Google Drive](https://drive.google.com/drive/folders/14NVnbrUUfII3tRdI8OOEPnLzKbs3SPvn?usp=drive_link), download the `SHINJUKU1` folder, then place it at `data/SHINJUKU1`.
